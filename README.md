@@ -1,12 +1,12 @@
 <img align="right" height="500em" src="	https://avatars.githubusercontent.com/u/157424335?v=4>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hi , I'm Gabriel Mochnacz</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hi , I'm Gabriel Mochnacz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMesquit&color=red" alt="Profile views" /> </p>
 
 - 👨‍💻 Studying Computer Science
 
-- 🔭 Taking a front-end and back-end course in RocketSeat [🚀](https://www.rocketseat.com.br/)
+//- 🔭 Taking a front-end and back-end course in RocketSeat [🚀](https://www.rocketseat.com.br/)
 
-- 💬 Practicing Next, Back-End, TypeScript
+- 💬 Practicing Node, Back-End, TypeScript
 
 
 <br><br>
@@ -43,7 +43,7 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
+<!--<p align="left" style="background:yellow">
 <a href="https://twitter.com/antt_hi" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Antonio Mesquita-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
