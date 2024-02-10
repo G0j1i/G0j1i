@@ -1,6 +1,6 @@
 <img align="right" height="500em" src="	https://avatars.githubusercontent.com/u/157424335?v=4>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hi , I'm Gabriel Mochnacz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMesquit&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=G0j1i&color=red" alt="Profile views" /> </p>
 
 - 👨‍💻 Studying Computer Science
 
@@ -36,8 +36,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex;" sty>
 <p align="left">
-<img width="395em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=vision-friendly-dark" alt="AntonioMesquit's stats"/>
-<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=G0j1i&show_icons=true&theme=vision-friendly-dark" alt="G0j1i's stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0j1i&layout=compact&theme=vision-friendly-dark" alt="G0j1i' most languages"/>
 </p>
 </div>
 
