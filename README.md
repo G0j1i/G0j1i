@@ -1,5 +1,5 @@
 <img align="right" height="500em" src="	https://avatars.githubusercontent.com/u/157424335?v=4>
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hi , I'm Gabriel Mochnacz</h1>
+<h1 align="left">Hi There<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Mochnacz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=G0j1i&color=red" alt="Profile views" /> </p>
 
 - 👨‍💻 Studying Computer Science
