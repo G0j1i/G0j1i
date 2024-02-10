@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi , I'm Gabriel Mochnacz
+Profile views
 
-<!--
-**G0j1i/G0j1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Studying Computer Science
 
-Here are some ideas to get you started:
+🔭 Taking a front-end and back-end course in RocketSeat 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Practicing Next, Back-End, TypeScript
+
+
+
+
+🛠  Markup languages and stylesheet languages
+HTML  CSS 
+
+
+🛠  Programming language being learned
+JavaScript  GitHub  Git  Visual Studio Code  React  Prisma  TypeScript  Docker 
