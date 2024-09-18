@@ -14,14 +14,7 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![G0j1i's github stats](https://github-readme-stats.vercel.app/api?username=G0j1i&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=G0j1i&theme=radical&layout=compact) |
 
-
-
-## Contact
 
 <!--<p align="left" style="background:yellow">
 <a href="https://twitter.com/antt_hi" target="_blank">
